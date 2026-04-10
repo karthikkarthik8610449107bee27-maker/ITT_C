@@ -1,0 +1,6 @@
+How to print “the number of pi in order, the equivalent of the inch unit in cm, the abbreviation of microprocessors, the name of the operating system you are using” on Python?
+list=[3.14,2.54,"CPU","WINDOWS 10"]
+ 
+print(list)
+Output:
+[3.14, 2.54, 'CPU', 'WINDOWS 10']
