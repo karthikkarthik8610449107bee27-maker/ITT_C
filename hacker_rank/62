@@ -1,0 +1,8 @@
+How to make a list of the week’s names and check if some days are on the list on Python?
+weekdays=["Monday","Tuesday","Wednesday","Thursday","Friday"]
+ 
+print("Friday" in weekdays)
+print("Saturday" in weekdays)
+output
+true
+false
